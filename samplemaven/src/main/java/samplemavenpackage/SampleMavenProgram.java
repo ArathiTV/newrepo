@@ -1,5 +1,6 @@
 package samplemavenpackage;
 
+
 public class SampleMavenProgram {
 
 	public static void main(String[] args) {
