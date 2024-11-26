@@ -6,7 +6,7 @@ public class AbstractExampleChild extends Abstractexample1Parent{
 		Abstractexample1Parent obj = new AbstractExampleChild ();
 		obj.display();
 		obj.show();
-		obj.display1();
+		//obj.display1();
 		
 		
 	}
